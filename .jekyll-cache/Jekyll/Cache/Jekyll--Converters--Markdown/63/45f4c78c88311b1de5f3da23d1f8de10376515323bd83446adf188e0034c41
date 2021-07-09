@@ -1,0 +1,157 @@
+I"]<h2 id="skills">Skills</h2>
+<p><strong>Tools</strong>: R, ArcGIS, QGIS, Python, Jupyter Notebook, Git, Excel</p>
+
+<p> </p>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/research_fc.png" alt="Subseasonal forecasts of marine mammals in the Northeast U.S." />
+            
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Subseasonal forecasts of marine mammals in the Northeast U.S.</h2>
+          
+
+          
+
+          
+            <div class="page__content text-justify">
+              <p>Marine mammals are highly mobile species and many suffer due to anthropogenic impacts, including bycatch or entanglements in fishing gear or vessel strikes. I developed marine mammal distribution models and incorporated subseasonal environmental forecast models to forecast marine mammal distributions in the highly urbanized northeast United States on the scale of weeks.</p>
+
+            </div>
+          
+
+          
+          
+          
+
+          
+          
+          
+            
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#anthropogenic-impacts" class="page__taxonomy-item" rel="tag">Anthropogenic Impacts</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#ecological-forecasting" class="page__taxonomy-item" rel="tag">Ecological Forecasting</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#spatial-overlap" class="page__taxonomy-item" rel="tag">Spatial Overlap</a>
+    
+    </span>
+  </p>
+
+          
+
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+<p><a name="Subseasonal forecasts of marine mammals in the Northeast U.S."></a></p>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/research_age.png" alt="Age Class Vulnerability" />
+            
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Age-class vessel strike risk for humpback whales in the New York Bight</h2>
+          
+
+          
+
+          
+            <div class="page__content text-justify">
+              <p>Vessel strikes are a source of injury and mortality for humpback whales globally, and juveniles often represent a high proportion of vessel strikes. However, age-specific risk of vessel strike had not been investigated in detail. We used UAVs to measure and determine the age class of humpback whales in the New York Bight and incorporated foraging behavior, habitat use, age class, strandings records, and AIS vessel data to assess vessel strike risk in the NYB. Juvenile humpback whales uniquely inhabit inshore waters exhibiting single-animal lunge feeding, while a mix of juvenile and adult humpbacks were found farther from shore (&gt;10km from shore) exhibiting cooperative foraging behavior. Vessels, particularly small passenger vessels, operated at high speeds within 10km of shore, suggesting that a) juvenile whales foraging inshore may be at particular risk of vessel strike and b) there may be additional vessel strike risk from small vessels that is not currently considered in management in this region.</p>
+
+            </div>
+          
+
+          
+          
+          
+
+          
+            <p><a href="https://www.int-res.com/abstracts/meps/v663/p209-222/" class="btn btn--primary">Publication</a></p>
+          
+          
+          
+            
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#age-specific-behavior" class="page__taxonomy-item" rel="tag">Age specific behavior</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#humpback-whales" class="page__taxonomy-item" rel="tag">Humpback Whales</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#uav" class="page__taxonomy-item" rel="tag">UAV</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#vessel-strikes" class="page__taxonomy-item" rel="tag">Vessel Strikes</a>
+    
+    </span>
+  </p>
+
+          
+
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+<p><a name="Age-class vessel strike risk for humpback whales in the New York Bight"></a></p>
+:ET
